@@ -16,5 +16,6 @@ pom.xml.asc
 cache
 .lsp
 .calva
-turbo
+turbo*
 notes
+studio
